@@ -1,0 +1,9 @@
+{
+    "dependencies": [
+        "@types/express",
+        "@types/mercadopago",
+        "@types/node",
+        "mercadopago",
+        "express"
+    ] 
+}
